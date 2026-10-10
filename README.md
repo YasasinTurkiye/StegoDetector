@@ -1,8 +1,3 @@
-================================================================================
-  STEGO DETECTOR
-  Find hidden data and steganography in files - detection and reporting only
-================================================================================
-
 Stego Detector is a Windows desktop app that scans a single file or a whole
 folder (including all subfolders) for signs that data has been hidden inside
 files, and shows you what it found and why.
